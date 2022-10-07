@@ -1,7 +1,0 @@
-echo "# prakweb_b_203040062" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/kelvin-203040062/prakweb_b_203040062.git
-git push -u origin main
