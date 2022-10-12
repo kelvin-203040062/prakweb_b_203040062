@@ -12,7 +12,7 @@ class Mahasiswa_model {
 
 //    private $mhs = [
 //        [
-//            "nama" => "Kelvin ardiansah",
+//            "nama" => "Kelvin Ardiansah",
 //            "nrp" => "203040062",
 //            "email" => "kelvinardiansah16@gmail.com",
 //            "jurusan" => "Informatika"
@@ -24,7 +24,7 @@ class Mahasiswa_model {
 //            "jurusan" => "Informatika"
 //        ],
 //        [
-//            "nama" => "fazy stain",
+//            "nama" => "Fazy stain",
 //            "nrp" => "20000002",
 //            "email" => "fazystain16@gmail.com",
 //            "jurusan" => "Informatika"
